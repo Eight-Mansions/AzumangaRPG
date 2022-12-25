@@ -8,7 +8,7 @@ The game is fully translated.
 *  Story Text
 *  All Images edited
 
-The game run on modern windows, you will need the Japanese 1.5 Version, which can be acquired easily via your favorite search engine.
+The game runs on modern windows, you will need the Japanese 1.5 version, which can be acquired easily via your favorite search engine.
 
 # Installation #
 Only the translated xdelta patch files are included; you will need an existing copy of AzumangaRPG Ver 1.5.
