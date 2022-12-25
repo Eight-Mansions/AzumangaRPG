@@ -23,12 +23,12 @@ You will also need an Xdelta patch utility.
 # Controls #
 Keybaord Controls:
 
-Arrow Keys to move
-Z =  Confirm / Use Item
-X = Item Wheel Clockwise
-C = Item Wheel Counter-Clockwise
-A = Throw
-ESC = Quit Game
+* Arrow Keys to move
+* Z =  Confirm / Use Item
+* X = Item Wheel Clockwise
+* C = Item Wheel Counter-Clockwise
+* A = Throw
+* ESC = Quit Game
 
 
 # Credits #
